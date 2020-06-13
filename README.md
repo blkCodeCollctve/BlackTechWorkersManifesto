@@ -79,7 +79,15 @@ Too often organizations like to boast about their diversity initiatives as a sol
 - [Two Types of Diversity Training That Really Work](https://hbr.org/2017/07/two-types-of-diversity-training-that-really-work)
 
 
-### Organizations to help with Diversity and Inclusion Initiatives
+### Resources to help with Diversity and Inclusion Initiatives
+
+#### Organizations
 - [Hill Street Strategies](https://www.hillstreetstrategies.com/)
 - [Diversity Tech](https://www.diversifytech.co/)
- 
+
+#### Books
+
+- [How to Be an Antiracist](https://www.amazon.com/How-Be-Antiracist-Ibram-Kendi/dp/0525509283)
+- [White Fragility](https://www.amazon.com/White-Fragility-People-About-Racism/dp/0807047414)
+- [The Color of Law](https://www.amazon.com/Color-Law-Forgotten-Government-Segregated/dp/1631492853)
+- [So You Want to Talk about Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825)

@@ -84,6 +84,7 @@ Too often organizations like to boast about their diversity initiatives as a sol
 #### Organizations
 - [Hill Street Strategies](https://www.hillstreetstrategies.com/)
 - [Diversity Tech](https://www.diversifytech.co/)
+- [Racial Equity Institute](https://www.racialequityinstitute.com/)
 
 #### Books
 

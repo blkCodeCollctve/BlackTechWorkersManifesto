@@ -3,7 +3,28 @@
 # A BLACK TECH WORKER'S MANIFESTO
 
 As first-generation black tech workers, we have excelled in positions in a field once obscured for many who look like us. However, recent events have reminded us that no matter the success we obtain personally, we still exist in a culture where our bodies threaten and make others feel uncomfortable. We refuse to let this go by unaddressed in the tech community. We do not proclaim to have all the answers. Frankly, it was exhausting for us to sit down under the weight of oppression and still muster the energy to research and write to educate others. However, when we think about why we created Black Code Collective we remember that this community has recognized and empowered our black voices and we want to contribute to building a world where the next generation of black and brown tech workers have respect our ancestors deeply desired. We don't write these words to educate every white person in tech, but as a reminder to our community on what we deserve.
+
 -Black Code Collective Founders
+
+### Recruiting
+To hire a diverse workforce requires a lot more effort than what has currently been done in most tech companies. Recruiting diverse candidates will require a holistic and serious reform in hiring practices. Below are some of the ways we can challenge assertions that companies have used.
+
+#### The Pipeline Issue
+Recruiting from colleges and universities is a common practice amongst most major tech companies. One of the things we have noticed is the large difference in recruitment from “Elite” universities where - because of economic and institutional racism  - it is harder for Black students to attend and graduate from. One way to expand the pipeline is by recruiting and investing in hiring from HBCUs (Historically Black Colleges and Universities). Another way to expand the pipeline is to recruit through conferences and groups focused on uplifting diverse candidates like NSBE (National Society of Black Engineers).
+
+#### Inclusive Job Descriptions 
+The first thing a lot of candidates will be judging a company on is their job posting. Through the language provided in the job descriptions, it could cause a lot of candidates who are qualified to not even bother applying. Make sure that the job descriptions are gender-neutral and qualifications that reflect what the actual job will need to be done. Including in Job descriptions that candidates aren’t expected to know 100% of the things listed and that you value growth and ability to learn as much as you value already containing the knowledge listed will increase the likelihood of diverse candidates applying. 
+
+#### Abolish GPA Requirements 
+Studies have also found that GPA’s have shown to be less and less likely to show how qualified a candidate is to perform the jobs demanded of them. What that does do is set up barriers for people who may not necessarily have had the economic wealth/support to maintain high GPAs. As universities and schools become more expensive a lot of black and brown students have had to take on more jobs and activities outside of school to pay for their education. As they try to balance work/school GPAs tend to lower. We challenge companies to look beyond the GPAs and test the students through their skills rather than completely ignoring them based on GPA. 
+
+#### References
+- https://www.forbes.com/sites/janicegassam/2018/12/18/5-reasons-why-the-pipeline-problem-is-just-a-myth/#5e58ed18227a
+- https://www.fastcompany.com/90225190/4-diversity-recruiting-challenges-for-tech
+- https://hr.fas.harvard.edu/files/fas-hr/files/recruiting_for_diversity_9.17.13_0.pdf
+- https://www.hrdive.com/news/should-employers-care-about-gpa-anymore/528430/
+- https://www.researchgate.net/publication/285040780_College_Grade_Point_Average_as_a_Predictor_of_Adult_Success_A_Meta-Analytic_Review_and_Some_Additional_Evidence
+
 
 ### Inclusion
 Getting a diverse workforce is only step one of the processes. Once you have hired the candidates, you should work to make sure these candidates feel included within your workplace. Every company will have slightly different needs, but below are some helpful ways you can make sure your black employees feel welcome.

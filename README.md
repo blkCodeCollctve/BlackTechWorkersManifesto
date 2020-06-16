@@ -16,8 +16,7 @@ Recruiting from colleges and universities is a common practice amongst most majo
 
 #### Inclusive Job Descriptions 
 
-The first thing a lot of candidates will judge a company by is their job postings. Through the exclusive and often intimidating language used in the job descriptions, this can cause a lot of candidates who are qualified to not bother applying. Ensure that job descriptions are gender-neutral and qualifications should reflect the work that will be required in the role. Include in job descriptions that candidates aren’t expected to have 100% of the skills listed and that you (the employer) value growth and ability to learn as much as you value working knowledge. This will greatly increase the likelihood of diverse applicants. 
-
+The first thing a lot of candidates will be judging a company on is their job posting. Through the language provided in the job descriptions, it could cause a lot of candidates who are qualified to not even bother applying. Make sure that the job descriptions are gender-neutral and qualifications that reflect what the actual job will need to be done. Including in job descriptions that candidates are not expected to know 100% of the things listed. It should state that the organization values growth and the ability to learn. These changes will increase the likelihood of diverse candidates applying. 
 
 #### Abolish GPA Requirements 
 
@@ -42,7 +41,7 @@ Leadership should lead the charge in signaling how valued diverse voices are. Th
 
 #### See our Differences and Celebrate Them
 
-We want to live in a world that recognizes and celebrates the rich cultures that are around us. Organizations should strive to see the differences in their employees and celebrate them. Celebrating these differences can include celebrating various holidays such as Black History Month, Pride Month, etc. and even willingness to have meditation or prayer rooms. Also, acknowledging when certain work tragedies are affecting a particular subset of our population such as police brutality as well as protests. Refusing to stay silent in these moments can help send a strong message to your Black and Brown employees that they are seen and their lives are relevant.
+We want to live in a world that recognizes and celebrates the rich cultures that are around us. Organizations should strive to see the differences in their employees and celebrate them. Celebrating these differences can include recognizing various holidays such as Black History Month, Pride Month and having spaces like meditation or prayer rooms. Acknowledging when certain work tragedies are affecting a particular subset of our population such as police brutality as well as protests is important to support the personal aspect of employees. Refusing to stay silent in these moments can help send a strong message to your Black and Brown employees that they are seen and their lives are relevant.
 
 #### Sponsorship
 

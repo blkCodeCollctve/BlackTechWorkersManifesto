@@ -24,6 +24,14 @@ The first thing a lot of candidates will judge a company by is their job posting
 Studies have also found that Grade Point Averages (GPAs) are infective in predicting an applicant's performance on the job. GPAs create barriers for people who may not have had the economic wealth/support to maintain or even earn "good grades". As universities and schools become more expensive a lot of Black and Brown students have had to work more jobs outside of school to pay for their education. As they try to balance work/school GPAs tend to decrease. We challenge companies to look beyond GPAs and test these students through their skills rather than completely discarding them based on GPA. 
 
 
+#### References
+- https://www.forbes.com/sites/janicegassam/2018/12/18/5-reasons-why-the-pipeline-problem-is-just-a-myth/#5e58ed18227a
+- https://www.fastcompany.com/90225190/4-diversity-recruiting-challenges-for-tech
+- https://hr.fas.harvard.edu/files/fas-hr/files/recruiting_for_diversity_9.17.13_0.pdf
+- https://www.hrdive.com/news/should-employers-care-about-gpa-anymore/528430/
+- https://www.researchgate.net/publication/285040780_College_Grade_Point_Average_as_a_Predictor_of_Adult_Success_A_Meta-Analytic_Review_and_Some_Additional_Evidence
+
+
 ### Inclusion
 
 Acquiring a diverse workforce is only step one of the processes. Once you have hired the candidates, you should work to make sure these candidates feel included within your workplace. Every company will have slightly different needs, but below are some helpful ways you can make sure your Black employees feel welcome.
@@ -66,6 +74,14 @@ There is an important and complex relationship between race and career advanceme
 Stepping into many tech organizations can feel like a wild jungle. With so much going on (especially for startups) tech workers can often be focused on putting out fires. And without a clear path that connects the work a person does to their status within the organization, advancement can seem out of reach. The notion that if “you work hard, you’ll be rewarded” is often not true for Black tech workers. These ambiguous guidelines for career advancement, lead to resentment and frustration as Black employees feel unsure of how their impact will be measured at their workplaces. For this reason, it is important to have a clear objective path to promotion. Black tech employees deserve to know how and what it takes to succeed within an organization.
 
 
+##### References
+- [Race-Related Differences in Promotions and Support: Underlying Effects of Human and Social Capital](https://pubsonline.informs.org/doi/abs/10.1287/orsc.11.5.493.15202)
+- [The Effects of Social Group Membership and Social Capital Resources on Careers](https://journals.sagepub.com/doi/abs/10.1177/0021934704273501)
+- [The role of social capital in the relationship between human capital and career mobility: Moderator or mediator?](https://www.ingentaconnect.com/content/mcb/250/2005/00000006/00000002/art00003)
+- [Linking Mentoring and Social Capital: Implications for Career and Organization Development](https://journals.sagepub.com/doi/abs/10.1177/1523422307304102)
+- [The Effect of Group Mentoring on Career Outcomes](https://journals.sagepub.com/doi/abs/10.1177/1059601196211002)
+
+
 ### Salary Transparency
 
 Doing the work to recruit and hire Black employees is futile if those employees will ultimately be paid inequitably. One of the biggest reasons underrepresented minorities leave the tech industry (not just their current organizations or professions) is feeling undervalued. There are many ways to value an employee, however, fair compensation is the most impactful means. And while many companies have strategies for increasing the likelihood that their employees are paid fairly, salary transparency is one of the best ways to ensure equitable pay.
@@ -82,9 +98,20 @@ Implicit biases, which we all have, can adversely impact how a prospective or cu
 
 While the idea of openly sharing salary data may seem awkward or even radical, the truth is salary sharing is already happening. Many underrepresented minorities in tech are sharing salary and compensation data widely within their networks, and in some cases publicly (via Glassdoor or even Twitter), as a means to prevent pay disparities and avoid companies with existing pay equity issues. Besides, many younger workers simply don’t believe open salary conversations are taboo. Salary data will be shared regardless of whether organizations implement salary transparency measures.
 
+##### References
+- [What is Pay Transparency & Why Does It Matter?](https://www.payscale.com/salary-negotiation-guide/what-is-pay-transparency)
+- [Does Pay Transparency Close the Gender Wage Gap ](https://www.payscale.com/data/pay-transparency)
+- [Negotiating Alone Won’t Fix the Wage Gap](https://money.cnn.com/2018/04/10/pf/equal-pay-day-negotiation/index.html)
+- [Like It or Not, Pay Transparency Is Coming (So Better Get Ready) ](https://www.tlnt.com/like-it-or-not-pay-transparency-is-coming-do-better-get-ready/)
+
 ### Training and Accountability
 
 Too often organizations like to boast about their diversity initiatives as a solution to racial bias when those solutions can be used to cover up systemic issues. The context and presumptions about race are within everyone. This is why it is important to have conversations and training about discrimination and bias in the workplace. These dialogues help illuminate the small microaggressions minorities feel constantly. Instances like asking to touch a person of color's hair, telling a person of color that they look off because they decide to change hairstyles and wear their hair naturally, or even the use of informal slang (e.g., "What’s up dog?") by a white person specifically towards a person of color, all demonstrate unconscious bias and treatment we are constantly subjected to. Diversity training has been shown to help encourage more pro-diversity behavior among employees, especially when tailored to an organization. If organizations want to help their employees acknowledge their own racial biases, provide informal mentorship to racial minorities, and recognize the excellent work of their peers who were racial minorities, it’s important they first see these issues in a safe space like in a diversity training. **Let us be clear, this is not a one-off exercise just to check a training box. This should be a constant dialogue that is coached and facilitated so that employees may become more aware of their unconscious bias.** As this training becomes embedded within an organization, employees will feel empowered to personally speak up against the problems they witness.
+
+
+##### References
+- [5 Strategies for Creating an Inclusive Workplace](https://hbr.org/2019/07/does-diversity-training-work-the-way-its-supposed-to)
+- [Two Types of Diversity Training That Really Work](https://hbr.org/2017/07/two-types-of-diversity-training-that-really-work)
 
 
 ### Resources to help with Diversity and Inclusion Initiatives
@@ -103,23 +130,3 @@ Too often organizations like to boast about their diversity initiatives as a sol
 - [The Color of Law](https://www.amazon.com/Color-Law-Forgotten-Government-Segregated/dp/1631492853)
 - [So You Want to Talk about Race](https://www.amazon.com/You-Want-Talk-About-Race/dp/1580058825)
 
-##### References
-- [5 Reasons why the Pipeline Problem is just a Myth](https://www.forbes.com/sites/janicegassam/2018/12/18/5-reasons-why-the-pipeline-problem-is-just-a-myth/#5e58ed18227a)
-- [4 Diversity Recruiting Challenges for Tech](https://www.fastcompany.com/90225190/4-diversity-recruiting-challenges-for-tech)
-- [Recruiting for Diversity](https://hr.fas.harvard.edu/files/fas-hr/files/recruiting_for_diversity_9.17.13_0.pdf)
-- [Should Employers Care about GPA anymore?](https://www.hrdive.com/news/should-employers-care-about-gpa-anymore/528430/)
-- [College Grade Point Average as a Predictor of Adult Success](https://www.researchgate.net/publication/285040780_College_Grade_Point_Average_as_a_Predictor_of_Adult_Success_A_Meta-Analytic_Review_and_Some_Additional_Evidence)
-- [Does Diversity Training Work the Way It’s Supposed To?](https://hbr.org/2019/07/does-diversity-training-work-the-way-its-supposed-to)
-- [Two Types of Diversity Training That Really Work](https://hbr.org/2017/07/two-types-of-diversity-training-that-really-work)
-- [How To Create A More Inclusive Workplace Culture](https://www.forbes.com/sites/ericmosley/2019/10/17/how-to-create-a-more-inclusive-workplace-culture/#2cf8b6a867bd)
-- [5 Strategies for Creating an Inclusive Workplace](https://hbr.org/2020/01/5-strategies-for-creating-an-inclusive-workplace)
-- [6 Steps for Building an Inclusive Workplace](https://www.shrm.org/hr-today/news/hr-magazine/0418/pages/6-steps-for-building-an-inclusive-workplace.aspx)
-- [Race-Related Differences in Promotions and Support: Underlying Effects of Human and Social Capital](https://pubsonline.informs.org/doi/abs/10.1287/orsc.11.5.493.15202)
-- [The Effects of Social Group Membership and Social Capital Resources on Careers](https://journals.sagepub.com/doi/abs/10.1177/0021934704273501)
-- [The role of social capital in the relationship between human capital and career mobility: Moderator or mediator?](https://www.ingentaconnect.com/content/mcb/250/2005/00000006/00000002/art00003)
-- [Linking Mentoring and Social Capital: Implications for Career and Organization Development](https://journals.sagepub.com/doi/abs/10.1177/1523422307304102)
-- [The Effect of Group Mentoring on Career Outcomes](https://journals.sagepub.com/doi/abs/10.1177/1059601196211002)
-- [What is Pay Transparency & Why Does It Matter?](https://www.payscale.com/salary-negotiation-guide/what-is-pay-transparency)
-- [Does Pay Transparency Close the Gender Wage Gap ](https://www.payscale.com/data/pay-transparency)
-- [Negotiating Alone Won’t Fix the Wage Gap](https://money.cnn.com/2018/04/10/pf/equal-pay-day-negotiation/index.html)
-- [Like It or Not, Pay Transparency Is Coming (So Better Get Ready) ](https://www.tlnt.com/like-it-or-not-pay-transparency-is-coming-do-better-get-ready/)

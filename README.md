@@ -7,32 +7,41 @@ As first-generation Black tech workers, we have excelled in positions in a field
 -Black Code Collective Founders
 
 ### Recruiting
+
 To hire a diverse workforce requires a lot more effort than what has currently been done in most tech companies. Recruiting diverse candidates will require a holistic and serious reform in hiring practices. Below are some of the ways we can challenge assertions that companies have made.
 
 #### The Pipeline Issue
+
 Recruiting from colleges and universities is a common practice amongst most major tech companies. One of the things we have noticed is the large difference in recruitment from “elite” universities where - because of economic and institutional racism  - it is harder for Black students to attend and graduate from. One way to expand the pipeline is by recruiting and investing in hiring from Historically Black Colleges and Universities (HBCUs). Another way to expand the pipeline is to recruit through conferences and groups focused on uplifting diverse candidates like National Society of Black Engineers (NSBE).
 
 #### Inclusive Job Descriptions 
+
 The first thing a lot of candidates will judge a company by is their job postings. Through the exclusive and often intimidating language used in the job descriptions, this can cause a lot of candidates who are qualified to not bother applying. Ensure that job descriptions are gender-neutral and qualifications should reflect the work that will be required in the role. Include in job descriptions that candidates aren’t expected to have 100% of the skills listed and that you (the employer) value growth and ability to learn as much as you value working knowledge. This will greatly increase the likelihood of diverse applicants. 
 
 
 #### Abolish GPA Requirements 
+
 Studies have also found that Grade Point Averages (GPAs) are infective in predicting an applicant's performance on the job. GPAs create barriers for people who may not have had the economic wealth/support to maintain or even earn "good grades". As universities and schools become more expensive a lot of Black and Brown students have had to work more jobs outside of school to pay for their education. As they try to balance work/school GPAs tend to decrease. We challenge companies to look beyond GPAs and test these students through their skills rather than completely discarding them based on GPA. 
 
 
 ### Inclusion
+
 Acquiring a diverse workforce is only step one of the processes. Once you have hired the candidates, you should work to make sure these candidates feel included within your workplace. Every company will have slightly different needs, but below are some helpful ways you can make sure your Black employees feel welcome.
 
 #### It Starts at the Top
+
 Leadership should lead the charge in signaling how valued diverse voices are. This can be verbally stated, but the action is the most important part here. For example, if leadership notices minority employees are being ignored in meetings or their ideas are quickly dismissed, they should swiftly speak up and clear the floor for the employee to speak again. This can be as simple as “I’m sorry Taylor, what was that you were saying?”. This signals to everyone in the room that this behavior will not be tolerated, and will hopefully lead to everyone’s voices being equally valued.
 
 #### See our Differences and Celebrate Them
+
 We want to live in a world that recognizes and celebrates the rich cultures that are around us. Organizations should strive to see the differences in their employees and celebrate them. Celebrating these differences can include celebrating various holidays such as Black History Month, Pride Month, etc. and even willingness to have meditation or prayer rooms. Also, acknowledging when certain work tragedies are affecting a particular subset of our population such as police brutality as well as protests. Refusing to stay silent in these moments can help send a strong message to your Black and Brown employees that they are seen and their lives are relevant.
 
 #### Sponsorship
+
 It’s no secret that Black employees struggle to rise through the ranks of companies. Part of this is because [systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) has made it more difficult for Black employees to have connections in senior roles to help them learn and network. That’s why it’s highly effective to partner new Black employees with experienced hires. The experienced hire should not only help the new employee settle into the job but serve as an advocate for the employee. [Harvard Business Review](https://hbr.org/2020/01/5-strategies-for-creating-an-inclusive-workplace) has found “that women of color who say they have sponsors are 81% more likely to be satisfied with their career progression than those without sponsors”.
 
 #### Increase Feedback Opportunities
+
 We all have unconscious biases. Minorities - especially Black tech workers (since we are often the smallest demographic in organizations) feel these are weaponized against us. Black employees may feel nervous or out of place joining predominantly white organizations. Some may read their nervous or shy behavior as not being “a team player” or being “so independent “. It’s important to remember and respect the differences in various relationships at work. Furthermore, if an employee receives feedback from one co-worker, this increases the chances of unconscious bias taking place. Alternatively, organizations should make it easy for anyone to provide praise to fellow employees. Thus, elevating everyday work that employees do and removing the chance for one point of failure.
 
 ###  Framework for Promoting Diverse Talent
@@ -40,26 +49,33 @@ We all have unconscious biases. Minorities - especially Black tech workers (sinc
 Having an all black security, and Latino janitorial staff does not constitute a diverse workforce. A truly diverse organization has space at every level of the organization for those of different race-ethnicity, gender, sexuality, ability, and other human traits that have been used to categorize people. We believe it's vitally important that organizations begin to reflect on how they make space for diverse talent to exceed within their organization and overcome routine and oppressive biases.
 
 #### Workplace Racism
+
 From being [singled out and forced by non-security staff to show your badge to prove you work at a company](https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/black-tech-employees-continue-to-face-workplace-racism.aspx), to [focusing on negative comments](https://medium.com/@blindfb2020/facebook-empowers-racism-against-its-employees-of-color-fbbfaf55ab76), black workers face a bombardment of unfair practices that discourage them from feeling like their workplace is supportive. Tech organizations need to recognize and validate that workplace racism is real and it appears in various forms, covertly and overtly. [Equity, Diversity and Inclusion](https://independentsector.org/resource/why-diversity-equity-and-inclusion-matter/) are fundamental to the success of organizations.
 
 #### People of Color (PoC) not advocating/communicating their contributions to the organization 
+
 For many Black tech workers, we did not grow up having people in our community who worked in tech or even corporate America. Skills like advocating for one's career (that may seem second nature to many white colleagues) can be foreign notions to people of color. Many black tech workers suffer from [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) which often inhibits them from advocating for themselves because they do not feel like they are smart or worthy enough to be in certain positions. We often do not know how to ask for positions, salaries, and responsibilities we deserve. And when we try, we could be made to feel as if it is inappropriate to ask. Coincidentally, the company’s leadership may not have awareness of individual contributors' struggles. This gap often leads to Black workers feeling unsupported by their organization. Combating these feelings can be done by providing coaching on how to communicate contributions, as well as training for management on how to evaluate talent equitably.
 
 
 #### Unconscious bias selecting leaders
+
 There is an important and complex relationship between race and career advancement that is predicated on social capital [[1](https://www.tandfonline.com/doi/abs/10.1080/02732170903495937)]. One study showed that “blacks suffer a social capital deficit relative to whites and that men and whites’ career advantages accumulate over time, whereas blacks’ disadvantages accumulate, as well” [[2](https://journals.sagepub.com/doi/abs/10.1177/0021934704273501)]. [Study](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.93.4.758) after [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885528/) show that "being white" is perceived to be an attribute of someone characterized as a leader. To open avenues for Black tech workers to advance, more diverse voices need to be a part of the conversation of a candidate’s promotion. And those voices need to be treated with weight and respect. A variety of perspectives help to paint a more vivid picture of an individual contributors' impact on the organization. Leaders must also recognize and hold with the respect that seeing Black leaders in higher positions within an organization communicates to Black workers in lower ranks the possibility of advancement within the organization. It’s empowering and important for minorities to have minority leaders to look up to.
 
 #### No clear path to promotion
+
 Stepping into many tech organizations can feel like a wild jungle. With so much going on (especially for startups) tech workers can often be focused on putting out fires. And without a clear path that connects the work a person does to their status within the organization, advancement can seem out of reach. The notion that if “you work hard, you’ll be rewarded” is often not true for Black tech workers. These ambiguous guidelines for career advancement, lead to resentment and frustration as Black employees feel unsure of how their impact will be measured at their workplaces. For this reason, it is important to have a clear objective path to promotion. Black tech employees deserve to know how and what it takes to succeed within an organization.
 
 
 ### Salary Transparency
+
 Doing the work to recruit and hire Black employees is futile if those employees will ultimately be paid inequitably. One of the biggest reasons underrepresented minorities leave the tech industry (not just their current organizations or professions) is feeling undervalued. There are many ways to value an employee, however, fair compensation is the most impactful means. And while many companies have strategies for increasing the likelihood that their employees are paid fairly, salary transparency is one of the best ways to ensure equitable pay.
 
 #### What is it?
+
 Pay Transparency is a term that encompasses a wide array of practices. It can be applied to organizations with a documented and research-based salary system that makes it easy to gauge the salary band of a given position within an organization and in comparison to the job market at large, even if they don’t share individual salaries. More commonly it’s applied to the practice of making individual employee salary data accessible either publicly or internally. No matter where an organization falls on the pay transparency scale, what is required is there is a data-driven salary structure that is competitive with the market and commensurate with experience, skill sets, organization contributions, or any other defined metrics.
 
 #### Eliminating Unconscious Bias
+
 Implicit biases, which we all have, can adversely impact how a prospective or current employee is perceived and evaluated. In an organization with pay transparency, the adverse impact these biases have can be reduced or even eliminated. An employee’s salary is based on how they measure against a predefined set of objectives dictated by their position, not unrelated factors like shared experiences or background with leadership, negotiating skills, or worse race. Additionally, all employees know what is required to increase their pay and elevate within the organization.
 
 #### It’s Already Here

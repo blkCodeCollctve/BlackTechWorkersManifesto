@@ -19,13 +19,6 @@ The first thing a lot of candidates will judge a company by is their job posting
 #### Abolish GPA Requirements 
 Studies have also found that Grade Point Averages (GPAs) are infective in predicting an applicant's performance on the job. GPAs create barriers for people who may not have had the economic wealth/support to maintain or even earn "good grades". As universities and schools become more expensive a lot of Black and Brown students have had to work more jobs outside of school to pay for their education. As they try to balance work/school GPAs tend to decrease. We challenge companies to look beyond GPAs and test these students through their skills rather than completely discarding them based on GPA. 
 
-#### References
-- https://www.forbes.com/sites/janicegassam/2018/12/18/5-reasons-why-the-pipeline-problem-is-just-a-myth/#5e58ed18227a
-- https://www.fastcompany.com/90225190/4-diversity-recruiting-challenges-for-tech
-- https://hr.fas.harvard.edu/files/fas-hr/files/recruiting_for_diversity_9.17.13_0.pdf
-- https://www.hrdive.com/news/should-employers-care-about-gpa-anymore/528430/
-- https://www.researchgate.net/publication/285040780_College_Grade_Point_Average_as_a_Predictor_of_Adult_Success_A_Meta-Analytic_Review_and_Some_Additional_Evidence
-
 
 ### Inclusion
 Getting a diverse workforce is only step one of the processes. Once you have hired the candidates, you should work to make sure these candidates feel included within your workplace. Every company will have slightly different needs, but below are some helpful ways you can make sure your black employees feel welcome.
@@ -95,9 +88,13 @@ While the idea of openly sharing salary data may seem awkward or even radical, t
 Too often organizations like to boast about their diversity initiatives as a solution to racial bias when those solutions can be used to cover up systemic issues. The context and presumptions about race are within everyone. This is why it is important to have conversations and training about discrimination and bias in the workplace. These dialogues help illuminate the small microaggressions minorities feel constantly. Instances like asking to touch a person of color's hair, telling a person of color that they look off because they decide to change hairstyles and wear their hair naturally, or even the use of informal slang (e.g. what’s up dog) by a white person specifically towards a person of color, all demonstrate unconscious bias and treatment we are constantly subjected to. Diversity training has been shown to help encourage more pro-diversity behavior among employees, especially when tailored to an organization. If organizations want to help their employees acknowledge their own racial biases, provide informal mentorship to racial minorities, and recognize the excellent work of their peers who were racial minorities, it’s important they first see these issues in a safe space like in a diversity training. **Let us be clear, this is not a one-off exercise just to check a training box. This should be a constant dialogue that is coached and facilitated so that employees may become more aware of their unconscious bias.** As this training becomes embedded within an organization, employees will feel empowered to personally speak up against the problems they witness.
 
 ##### References
-- [5 Strategies for Creating an Inclusive Workplace](https://hbr.org/2019/07/does-diversity-training-work-the-way-its-supposed-to)
+- [5 Reasons why the Pipeline Problem is just a Myth](https://www.forbes.com/sites/janicegassam/2018/12/18/5-reasons-why-the-pipeline-problem-is-just-a-myth/#5e58ed18227a)
+- [4 Diversity Recruiting Challenges for Tech](https://www.fastcompany.com/90225190/4-diversity-recruiting-challenges-for-tech)
+- [Recruiting for Diversity](https://hr.fas.harvard.edu/files/fas-hr/files/recruiting_for_diversity_9.17.13_0.pdf)
+- [Should Employers Care about GPA anymore?](https://www.hrdive.com/news/should-employers-care-about-gpa-anymore/528430/)
+- [College Grade Point Average as a Predictor of Adult Success](https://www.researchgate.net/publication/285040780_College_Grade_Point_Average_as_a_Predictor_of_Adult_Success_A_Meta-Analytic_Review_and_Some_Additional_Evidence)
+- [Does Diversity Training Work the Way It’s Supposed To?](https://hbr.org/2019/07/does-diversity-training-work-the-way-its-supposed-to)
 - [Two Types of Diversity Training That Really Work](https://hbr.org/2017/07/two-types-of-diversity-training-that-really-work)
-
 
 ### Resources to help with Diversity and Inclusion Initiatives
 
@@ -106,7 +103,7 @@ Too often organizations like to boast about their diversity initiatives as a sol
 - [Diversity Tech](https://www.diversifytech.co/)
 - [Racial Equity Institute](https://www.racialequityinstitute.com/)
 - [Bravely](https://workbravely.com/)
-- [Project Basta] (https://projectbasta.com/)
+- [Project Basta](https://projectbasta.com/)
 
 #### Books
 

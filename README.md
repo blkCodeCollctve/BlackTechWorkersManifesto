@@ -13,7 +13,7 @@ To hire a diverse workforce requires a lot more effort than what has currently b
 Recruiting from colleges and universities is a common practice amongst most major tech companies. One of the things we have noticed is the large difference in recruitment from “elite” universities where - because of economic and institutional racism  - it is harder for Black students to attend and graduate from. One way to expand the pipeline is by recruiting and investing in hiring from Historically Black Colleges and Universities (HBCUs). Another way to expand the pipeline is to recruit through conferences and groups focused on uplifting diverse candidates like National Society of Black Engineers (NSBE).
 
 #### Inclusive Job Descriptions 
-The first thing a lot of candidates will judge a company by is their job postings. Through the exclusive and often intimidating language used in the job descriptions, this can cause a lot of candidates who are qualified to not bother applying. Ensure that job descriptions are gender-neutral and qualifications should reflect the work that will be required in the role. Include in Job descriptions that candidates aren’t expected to have 100% of the skills listed and that you (the employer) value growth and ability to learn as much as you value working knowledge. This will greatly increase the likelihood of diverse applicants. 
+The first thing a lot of candidates will judge a company by is their job postings. Through the exclusive and often intimidating language used in the job descriptions, this can cause a lot of candidates who are qualified to not bother applying. Ensure that job descriptions are gender-neutral and qualifications should reflect the work that will be required in the role. Include in job descriptions that candidates aren’t expected to have 100% of the skills listed and that you (the employer) value growth and ability to learn as much as you value working knowledge. This will greatly increase the likelihood of diverse applicants. 
 
 
 #### Abolish GPA Requirements 
@@ -21,7 +21,7 @@ Studies have also found that Grade Point Averages (GPAs) are infective in predic
 
 
 ### Inclusion
-Getting a diverse workforce is only step one of the processes. Once you have hired the candidates, you should work to make sure these candidates feel included within your workplace. Every company will have slightly different needs, but below are some helpful ways you can make sure your black employees feel welcome.
+Acquiring a diverse workforce is only step one of the processes. Once you have hired the candidates, you should work to make sure these candidates feel included within your workplace. Every company will have slightly different needs, but below are some helpful ways you can make sure your Black employees feel welcome.
 
 #### It Starts at the Top
 Leadership should lead the charge in signaling how valued diverse voices are. This can be verbally stated, but the action is the most important part here. For example, if leadership notices minority employees being talked over in meetings, they should swiftly speak up and clear the floor for the employee to speak again. This can be as simple as “I’m sorry Taylor, what was that you were saying?”. This signals to everyone in the room that this behavior will not be tolerated, and will hopefully lead to everyone’s voices being equally valued.

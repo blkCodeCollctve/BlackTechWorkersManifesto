@@ -17,7 +17,7 @@ The first thing a lot of candidates will judge a company by is their job posting
 
 
 #### Abolish GPA Requirements 
-Studies have also found that GPA’s have shown to be less and less likely to show how qualified a candidate is to perform the jobs demanded of them. What that does do is set up barriers for people who may not necessarily have had the economic wealth/support to maintain high GPAs. As universities and schools become more expensive a lot of black and brown students have had to take on more jobs and activities outside of school to pay for their education. As they try to balance work/school GPAs tend to lower. We challenge companies to look beyond the GPAs and test the students through their skills rather than completely ignoring them based on GPA. 
+Studies have also found that Grade Point Averages (GPAs) are infective in predicting an applicant's performance on the job. GPAs create barriers for people who may not have had the economic wealth/support to maintain or even earn "good grades". As universities and schools become more expensive a lot of Black and Brown students have had to work more jobs outside of school to pay for their education. As they try to balance work/school GPAs tend to decrease. We challenge companies to look beyond GPAs and test these students through their skills rather than completely discarding them based on GPA. 
 
 #### References
 - https://www.forbes.com/sites/janicegassam/2018/12/18/5-reasons-why-the-pipeline-problem-is-just-a-myth/#5e58ed18227a

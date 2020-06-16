@@ -105,6 +105,7 @@ Too often organizations like to boast about their diversity initiatives as a sol
 - [Diversity Tech](https://www.diversifytech.co/)
 - [Racial Equity Institute](https://www.racialequityinstitute.com/)
 - [Bravely](https://workbravely.com/)
+- [Project Basta] (https://projectbasta.com/)
 
 #### Books
 

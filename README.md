@@ -7,7 +7,7 @@ As first-generation black tech workers, we have excelled in positions in a field
 -Black Code Collective Founders
 
 ### Recruiting
-To hire a diverse workforce requires a lot more effort than what has currently been done in most tech companies. Recruiting diverse candidates will require a holistic and serious reform in hiring practices. Below are some of the ways we can challenge assertions that companies have used.
+To hire a diverse workforce requires a lot more effort than what has currently been done in most tech companies. Recruiting diverse candidates will require a holistic and serious reform in hiring practices. Below are some of the ways we can challenge assertions that companies have made.
 
 #### The Pipeline Issue
 Recruiting from colleges and universities is a common practice amongst most major tech companies. One of the things we have noticed is the large difference in recruitment from “Elite” universities where - because of economic and institutional racism  - it is harder for Black students to attend and graduate from. One way to expand the pipeline is by recruiting and investing in hiring from HBCUs (Historically Black Colleges and Universities). Another way to expand the pipeline is to recruit through conferences and groups focused on uplifting diverse candidates like NSBE (National Society of Black Engineers).
